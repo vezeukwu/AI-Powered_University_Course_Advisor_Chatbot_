@@ -1,7 +1,9 @@
 # AI-Powered_University_Course_Advisor_Chatbot_
+
+
+### 🚀 Live Demo on Hugging Face Spaces
 In this project I developed an AI-powered course advisor chatbot for Teesside University UK using open-source tools. The chatbot provides real-time, document-grounded academic support by retrieving course and policy information from institutional documents through a Retrieval-Augmented Generation (RAG) framework.
 
-## 🚀 Live Demo on Hugging Face Spaces
 👉 [Try it out here](https://huggingface.co/spaces/vnwobodo/vnwobodo-demo)
 
 Teesside University has its main campuses in Middlesbrough (TS1 3BX, North East England) and other campuses such as London campus in Stratford. The school's Motto: "Deeds Not Words" is shown in the outstanding performances and Awards received such as the TEF Gold 2023 for overall teaching and student experience; TEF Gold for teaching excellence (2023), Top in North East England f#or student experience Outstanding apprenticeships (Ofsted 2025) High student satisfaction. It offers Full-time and part-time study modes - Foundation & Pathway programmes, including Pre-Masters and writing-up routes Undergraduate Courses at Teesside University Teesside offers a wide selection of undergraduate courses
