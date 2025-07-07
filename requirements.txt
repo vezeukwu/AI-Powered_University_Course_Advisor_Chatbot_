@@ -1,0 +1,12 @@
+
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+torch
+gradio
+langchain-community
+unstructured
+accelerate
+huggingface-hub
+pydantic==2.10.6
